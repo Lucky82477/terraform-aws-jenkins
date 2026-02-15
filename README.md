@@ -12,3 +12,5 @@ The setup uses Terraform modules and a user_data script to bootstrap the instanc
 
 ## 📁 Project Structure
 
+demo
+
